@@ -1,0 +1,11 @@
+.class chọn tất cả các thẻ trong class
+.class1.class2 chọn tất cả các thẻ có class1 và class2
+.class1 .class2 chọn tất cả các thẻ có class2 là con của class1
+* chọn tất cả mọi thứ
+element chọn tất cả các element
+element.class chọn tất cả các element có class 
+element1 element2 chọn tất cả các element1 trong element2
+element1,element2 chọn tất cả các element1 và element2
+element1>element2 chọn tất cả các element2 là con trực tiếp của element1
+element1+element2 chọn tất cả element2 đứng liền kề sau element1
+element1~element2 chọn tất cả element2 đừng sau element1

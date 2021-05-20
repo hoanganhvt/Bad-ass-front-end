@@ -1,0 +1,11 @@
+Đơn vị đo tuyệt đối
+px cm inch
+
+Đơn vị đo tương đối
+% phụ thuộc vào thẻ chứa nó
+rem phụ thuộc vào thẻ html
+em phụ thuộc vào thẻ gần nhất
+vw (view width) % kích thước của chiều ngang màn hình
+eg: 1vw: 1 % chiều ngang màn hình
+vh (view height) % kích thước chiều cao màn hình
+eg: 1vh 1% chiều cao màn hình

@@ -1,0 +1,21 @@
+:root{
+    --red-color:rgb(190, 82, 49);
+}
+
+
+.class1{
+    background-color: rgb(136, 48, 48);
+    height:80px;
+    width:20px;
+}
+
+
+.class2{
+    background-color: var(--red-color);
+    width: calc(80% + 20%);
+    height:calc(110px + 10px);
+}
+
+a::after{
+    content: ":"attr(href);
+}

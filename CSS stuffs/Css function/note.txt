@@ -1,0 +1,5 @@
+Các function đã được học:
+rgb()
+rgba()
+calc() lưu ý phải cách mới có thể hoạt động
+attr() lấy ra thuộc tính của 1 tag
